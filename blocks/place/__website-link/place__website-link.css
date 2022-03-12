@@ -2,8 +2,9 @@
   color: #FFF;
   text-decoration: underline;
   line-height: 1.22;
+  transition: .2s;
 }
 
 .place__website-link:hover {
-  text-decoration: none;
+  opacity: .7;
 }

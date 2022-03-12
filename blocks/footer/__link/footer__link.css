@@ -5,6 +5,7 @@
   text-decoration: none;
   font-size: 16px;
   line-height: 1.12;
+  transition: .2s;
 }
 
 .footer__link:last-of-type {
@@ -12,7 +13,7 @@
 }
 
 .footer__link:hover {
-  text-decoration: underline;
+  opacity: .7;
 }
 
 @media screen and (max-width: 767px) {
