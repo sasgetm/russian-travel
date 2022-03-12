@@ -1,0 +1,9 @@
+.place__website-link {
+  color: #FFF;
+  text-decoration: underline;
+  line-height: 1.22;
+}
+
+.place__website-link:hover {
+  text-decoration: none;
+}
